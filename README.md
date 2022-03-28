@@ -1,7 +1,7 @@
 # Tech House Fourier Series
-A periodic complex-valued parametric function can be approximated by a Fourier series of complex exponential terms with specially chosen coefficients. In other words, if someone were to blow a weekend on modelling an image (say, for example, the Tech House logo) as a periodic complex-valued parametric function, then they would be able to use a Fourier series to trace out this image using a chain of epicycles (see the actual program to understand what this actually means beyond this confusing description). The more epicycles used, the more accurate the trace will become. Try turning up the "Number of Epicycles" slider to see this happen.
+A periodic complex-valued parametric function can be approximated by a Fourier series of complex exponential terms with specially chosen coefficients. In other words, if someone were to blow a weekend on modeling an image (say, for example, the Tech House logo) as a periodic complex-valued parametric function, then they would be able to use a Fourier series to trace out this image using a chain of epicycles (see the actual program to understand what this actually means beyond this confusing description). The more epicycles used, the more accurate the trace will become. Try turning up the "Number of Epicycles" slider to see this happen.
 
-Note that the coefficients in the Fourier series are like the underlying DNA of your image, what distinguishes the Tech House logo from a drawing of human genitalea. Here are the first few of these coefficients in the case of the Tech House logo:
+Note that the coefficients in the Fourier series are like the underlying DNA of your image. They are what distinguishes the Tech House logo from a drawing of human genitalia. Here are the first few of these coefficients in the case of the Tech House logo:
 
 c(0) = -0.071 + 0.011i
 
