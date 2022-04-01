@@ -24,7 +24,7 @@ function setup() {
     panel = createGraphics((act.width - act.height) / 2, act.height);
 
     speedS = new Sloider(0.5, 0.125, 1 / 2, 0.75);
-    circlesS = new Sloider(0.002, 0.125, 1 / 4, 0.75);
+    circlesS = new Sloider(0.02, 0.125, 1 / 4, 0.75);
     opacityS = new Sloider(0.5, 0.125, 3 / 4, 0.75);
 
     circles = 500 * circlesS.val;
